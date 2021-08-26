@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSSFrancis/FEM-AngularCorrelations/HEAD)
+
+
 This notebook walks through how to preform an FEM analysis using hyperspy/pyxem.  The workflow might change slightly with 
 time but for now it works, if fairly fast, and can accomplish most of the things necessary for one of these experiments
 
