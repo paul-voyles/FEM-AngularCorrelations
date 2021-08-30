@@ -22,6 +22,8 @@ Then run the commoand $jupyter notebook to start a notebook server.   You can al
 
 ![Jupyter notebook](https://user-images.githubusercontent.com/41125831/131411980-1193eb8a-8324-4dcf-9997-eaa5cf57069a.PNG)
 
+![Jupyter notebook2](https://user-images.githubusercontent.com/41125831/131412142-fe1a164d-df16-4d54-8316-fb31bf132e00.PNG)
+
 ***What the Bundle Includes:*** The bundle will download a couple of different python programs which are useful in analyzing electron microscopy data:
 - ase (For atomic simuations)
 - atomap (HRTEM studies)
