@@ -13,12 +13,14 @@ Installation
 ***Downloading:*** To download any packages that might be necessary the best thing to do is to install the [Hyperspy-Bundle](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) Which should handle installing pyxem and hyperspy.  Alternitavely you can download both pyxem and hyperspy individually using pip or anaconda. [Hyperspy-install](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) [pyxem-install](https://github.com/pyxem/pyxem-demos)
 
 
-***Launching a Jupyter Notebook:*** To launch a jupyter notebook from the bundle you should run the Miniforge Prompt (Hyperspy-bundle) application and then run the commoand $jupyter notebook to start a notebook server.   You can also right click on a directory and the option "Jupyter Notebook Here" should be available. You can then open up the notebook you are interested in running. 
+***Launching a Jupyter Notebook:*** To launch a jupyter notebook from the bundle you should run the Miniforge Prompt (Hyperspy-bundle) application.
 
 ![bundle_test_qtconsole](https://user-images.githubusercontent.com/41125831/131411715-98a67a0f-3c16-4d78-9e21-f92b9caeb950.png)
 
+Then run the commoand $jupyter notebook to start a notebook server.   You can also right click on a directory and the option "Jupyter Notebook Here" should be available. You can then open up the notebook you are interested in running. 
 
 
+![Jupyter notebook](https://user-images.githubusercontent.com/41125831/131411980-1193eb8a-8324-4dcf-9997-eaa5cf57069a.PNG)
 
 ***What the Bundle Includes:*** The bundle will download a couple of different python programs which are useful in analyzing electron microscopy data:
 - ase (For atomic simuations)
