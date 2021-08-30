@@ -8,8 +8,8 @@ time but for now it works, if fairly fast, and can accomplish most of the things
 If you are interested or need further instrucution then you can always contact csfrancis@wisc.edu for
 additional support.  Before doing so please read through any documentation provided etc. 
 
-Installation
----------------
+Installation (Hyperspy/PyXEM)
+-------------------------------
 ***Downloading:*** To download any packages that might be necessary the best thing to do is to install the [Hyperspy-Bundle](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) Which should handle installing pyxem and hyperspy.  Alternitavely you can download both pyxem and hyperspy individually using pip or anaconda. [Hyperspy-install](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) [pyxem-install](https://github.com/pyxem/pyxem-demos)
 
 
@@ -38,6 +38,16 @@ Then run the commoand $jupyter notebook to start a notebook server.   You can al
 - scanning_drift_corr (Drift Correction)
 
 ***Note:*** if you already have a version of python or anaconda on your computer then this will install a second version of python. Make sure you are using the hyperspy bundle distribution or download pyxem/hyperspy using pip or conda as described above
+
+
+Using Git to clone this Repo
+-------------------------------
+
+To clone this repository you can use the command:
+
+`$ git clone https://github.com/CSSFrancis/FEM-AngularCorrelations.git`
+
+as long as you have git installed on your computer -- [Git installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 Binder Link
 ------------
