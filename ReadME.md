@@ -10,9 +10,13 @@ additional support.  Before doing so please read through any documentation provi
 
 Installation
 ---------------
-To download any packages that might be necessary the best thing to do is to install the [Hyperspy-Bundle](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) Which should handle installing pyxem and hyperspy.  Alternitavely you can download both pyxem and hyperspy individually using pip or anaconda. [Hyperspy-install](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) [pyxem-install](https://github.com/pyxem/pyxem-demos)
+***Downloading:*** To download any packages that might be necessary the best thing to do is to install the [Hyperspy-Bundle](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) Which should handle installing pyxem and hyperspy.  Alternitavely you can download both pyxem and hyperspy individually using pip or anaconda. [Hyperspy-install](http://hyperspy.org/hyperspy-doc/current/user_guide/install.html) [pyxem-install](https://github.com/pyxem/pyxem-demos)
 
-The bundle will download a couple of different python programs which are useful in analyzing electron microscopy data:
+
+***Launching a Jupyter Notebook:*** To launch a jupyter notebook from the bundle you should run the Miniforge Prompt (Hyperspy-bundle) application and then run the commoand $jupyter notebook to start a notebook server.   You can also right click on a directory and the option "Jupyter Notebook Here" should be available. You can then open up the notebook you are interested in running. 
+
+
+***What the Bundle Includes:*** The bundle will download a couple of different python programs which are useful in analyzing electron microscopy data:
 - ase (For atomic simuations)
 - atomap (HRTEM studies)
 - HyperSpy (High dimensional Analysis)
@@ -24,8 +28,6 @@ The bundle will download a couple of different python programs which are useful 
 - pyxem (4-D STEM)
 - nglview (Viewing Molecular Structures)
 - scanning_drift_corr (Drift Correction)
-
-To launch a jupyter notebook from the bundle you should run the Miniforge Prompt (Hyperspy-bundle) application and then run the commoand $jupyter notebook to start a notebook server.   You can also right click on a directory and the option "Jupyter Notebook Here" should be available. You can then open up the notebook you are interested in running. 
 
 ***Note:*** if you already have a version of python or anaconda on your computer then this will install a second version of python. Make sure you are using the hyperspy bundle distribution or download pyxem/hyperspy using pip or conda as described above
 
