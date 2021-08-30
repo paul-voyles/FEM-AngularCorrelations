@@ -15,6 +15,10 @@ Installation
 
 ***Launching a Jupyter Notebook:*** To launch a jupyter notebook from the bundle you should run the Miniforge Prompt (Hyperspy-bundle) application and then run the commoand $jupyter notebook to start a notebook server.   You can also right click on a directory and the option "Jupyter Notebook Here" should be available. You can then open up the notebook you are interested in running. 
 
+![bundle_test_qtconsole](https://user-images.githubusercontent.com/41125831/131411715-98a67a0f-3c16-4d78-9e21-f92b9caeb950.png)
+
+
+
 
 ***What the Bundle Includes:*** The bundle will download a couple of different python programs which are useful in analyzing electron microscopy data:
 - ase (For atomic simuations)
