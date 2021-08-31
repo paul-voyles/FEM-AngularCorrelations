@@ -2,7 +2,7 @@
 
 Introduction
 -------------
-This notebook walks through how to perform fluctuation electron microscopy (FEM) and correlation symmetry coefficient analysis using hyperspy/pyxem.  The workflow might change slightly with 
+This notebook walks through how to perform fluctuation electron microscopy (FEM) and angular autocorrelation analysis using hyperspy/pyxem.  The workflow might change slightly with 
 time but for now it works, it is fairly fast, and it can accomplish most of the things necessary for these types of experiments.
 
 If you are interested or need further instrucution then you can always contact csfrancis@wisc.edu for
